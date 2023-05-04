@@ -1,0 +1,24 @@
+div {
+  height: 300px;
+  width: 300px;
+  background-color: orchid;
+  margin: 10px;
+}
+.morado {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(112, 218, 204);
+  margin: 10px;
+}
+.celeste {
+  height: 300px;
+  width: 300px;
+  background-color: lightblue;
+  margin: 10px;
+}
+.amarillo {
+  height: 300px;
+  width: 300px;
+  background-color: rgb(218, 238, 165);
+  margin: 10px;
+}
